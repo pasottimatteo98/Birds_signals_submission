@@ -1,4 +1,4 @@
-# Bird Species Analysis Project
+# BirdSense: Multi-Modal Bird Species Recognition System
 
 This repository contains a comprehensive bird species analysis system with three main components:
 1. **Image Classification** - Identifying bird species from images
